@@ -1,0 +1,85 @@
+Copyright (c) 2026 Juan E. (GitHub: JUANES31081) - Universidad EAN
+
+Este trabajo corresponde a una investigacion academica EN CURSO (proyecto de grado).
+
+===============================================================================
+LICENCIA: Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+International (CC BY-NC-SA 4.0)
+===============================================================================
+
+Texto legal completo (version vinculante):
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+Resumen legible (no sustituye al texto legal):
+https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es
+
+-------------------------------------------------------------------------------
+USTED ES LIBRE DE:
+-------------------------------------------------------------------------------
+- Compartir: copiar y redistribuir el material en cualquier medio o formato.
+- Adaptar: remezclar, transformar y construir a partir del material.
+
+El licenciante no puede revocar estas libertades mientras se cumplan los
+terminos de la licencia.
+
+-------------------------------------------------------------------------------
+BAJO LOS SIGUIENTES TERMINOS:
+-------------------------------------------------------------------------------
+1. ATRIBUCION (BY)
+   Debe reconocer la autoria de forma adecuada, proporcionar un enlace a la
+   licencia e indicar si se han realizado cambios. Debe hacerlo de cualquier
+   manera razonable, pero no de forma que sugiera que el licenciante lo
+   respalda a usted o al uso que hace del material.
+
+   Cita sugerida:
+   Juan E. (JUANES31081). "Proyecto de Investigacion - Datasets de Deteccion
+   de Caidas (Wearables y Multimodal)". Universidad EAN, 2026.
+   https://github.com/JUANES31081/ProyectoInvSeminario
+
+2. NO COMERCIAL (NC)
+   No puede utilizar el material con fines comerciales. Cualquier uso
+   comercial requiere autorizacion previa y por escrito del autor.
+
+3. COMPARTIR IGUAL (SA)
+   Si remezcla, transforma o crea a partir del material, debe distribuir su
+   contribucion bajo la misma licencia que el original.
+
+4. SIN RESTRICCIONES ADICIONALES
+   No puede aplicar terminos legales ni medidas tecnologicas que restrinjan
+   legalmente a otros hacer cualquier uso permitido por la licencia.
+
+-------------------------------------------------------------------------------
+AVISO ACADEMICO ADICIONAL (INTEGRIDAD Y ANTI-PLAGIO)
+-------------------------------------------------------------------------------
+Este aviso NO modifica ni restringe la licencia CC BY-NC-SA 4.0; expresa las
+expectativas academicas del autor:
+
+- Este repositorio corresponde a una investigacion en curso. Reutilizar el
+  contenido (texto, tablas, metodologia, codigo o reportes) sin la debida
+  citacion constituye plagio academico, independientemente de la licencia.
+- Se permite y se alienta usar este trabajo como BASE o referencia para otras
+  investigaciones, siempre citando la fuente original.
+- No se autoriza presentar este trabajo, total o parcialmente, como produccion
+  academica propia (tesis, articulos, informes o entregables de curso).
+- Los resultados aqui publicados son preliminares y pueden cambiar hasta la
+  version final del proyecto de grado.
+
+-------------------------------------------------------------------------------
+DATOS DE TERCEROS (IMPORTANTE)
+-------------------------------------------------------------------------------
+La licencia anterior aplica UNICAMENTE al contenido original de este
+repositorio: codigo, notebooks, documentacion, reportes y analiticas
+elaborados por el autor.
+
+Los datasets de terceros referenciados o descargados (UP-Fall, UR Fall
+Detection, SisFall, UMAFall, UniMiB SHAR, Graz, TST, KFall, FallAllD, tFall,
+entre otros) conservan sus propias licencias y condiciones de uso, definidas
+por sus autores originales. Consulte `docs/DATA_LICENSES.md` antes de
+redistribuir o reutilizar cualquier dato.
+
+-------------------------------------------------------------------------------
+EXENCION DE GARANTIA
+-------------------------------------------------------------------------------
+EL MATERIAL SE PROPORCIONA "TAL CUAL", SIN GARANTIAS DE NINGUN TIPO, EXPRESAS
+O IMPLICITAS. EL AUTOR NO SERA RESPONSABLE POR RECLAMACIONES, DANOS U OTRAS
+RESPONSABILIDADES DERIVADAS DEL USO DE ESTE MATERIAL.

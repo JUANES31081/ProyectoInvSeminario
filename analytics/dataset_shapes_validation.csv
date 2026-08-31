@@ -1,0 +1,8 @@
+dataset,downloaded,slug_used,path,csv_files,total_rows,min_cols,max_cols,sample_file,sample_shape,errors
+SisFall (mirror Kaggle),True,thevman/sisfall-dataset,C:\khcache\datasets\thevman\sisfall-dataset\versions\1,4275,6907663,10,10,SisFall_Task specified/Test/SA01/D01_SA01_R01.csv,"(5401, 10)",
+KFall (mirror Kaggle),True,usmanabbasi2002/kfall-dataset,C:\khcache\datasets\usmanabbasi2002\kfall-dataset\versions\2,5075,3995100,11,11,KFall Dataset/KFall Dataset/sensor_data/SA06/S06T01R01.csv,"(3072, 11)",
+FallAllD (mirror Kaggle),True,shusrith/fallalld,C:\khcache\datasets\shusrith\fallalld\versions\5,5078,4101091,4,455,fallalld.csv,"(6605, 9)",
+Real-Time Patient Fall,True,zara2099/real-time-patient-fall-detection-data,C:\khcache\datasets\zara2099\real-time-patient-fall-detection-data\versions\1,1,1000,15,15,fall_detection_dataset.csv,"(1000, 15)",
+Elderly Fall Detection IoT,True,ziya07/elderly-fall-detection-iot-dataset,C:\khcache\datasets\ziya07\elderly-fall-detection-iot-dataset\versions\2,2,25552,5,15,archive (14)/data_tuple3.csv,"(552, 5)",
+Smartphone Human Fall Dataset,True,saadmansakib/smartphone-human-fall-dataset,C:\khcache\datasets\saadmansakib\smartphone-human-fall-dataset\versions\1,2,1784,12,12,Test.csv,"(356, 12)",
+Falls vs Normal Activities,True,enricogrimaldi/falls-vs-normal-activities,C:\khcache\datasets\enricogrimaldi\falls-vs-normal-activities\versions\1,1,96800,7,7,acc_gyr.csv,"(96800, 7)",

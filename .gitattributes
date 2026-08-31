@@ -1,0 +1,20 @@
+# Normalizacion de saltos de linea
+* text=auto eol=lf
+
+# Notebooks: evitar merges automaticos problematicos
+*.ipynb -merge
+
+# Archivos que deben conservar CRLF en Windows
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+
+# Binarios / datos: nunca normalizar
+*.csv binary
+*.zip binary
+*.rar binary
+*.avi binary
+*.png binary
+*.jpg binary
+*.pdf binary
+*.sqlite binary
+*.ndjson binary

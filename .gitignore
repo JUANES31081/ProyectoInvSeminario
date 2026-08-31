@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Logs / temp
+*.log
+*.tmp
+
+# ---------------------------------------------------------------------------
+# DATOS
+# ---------------------------------------------------------------------------
+# Los datasets NO se versionan: varios archivos superan el limite de 100 MB por
+# archivo de GitHub (ej. datasets/UP-Fall/Features_1&0.5_Vision.csv = 433 MB) y
+# ademas pertenecen a terceros con licencias propias (ver docs/DATA_LICENSES.md).
+# Se regeneran ejecutando el notebook.
+datasets/**
+
+# Conservar estructura de carpetas y trazabilidad de origen
+!datasets/
+!datasets/**/
+!datasets/**/.gitkeep
+!datasets/**/SOURCE_PATH.txt
+
+# Articulos de referencia (PDFs con derechos de terceros)
+Articulos/
+
+# ---------------------------------------------------------------------------
+# ANALITICAS
+# ---------------------------------------------------------------------------
+# Las salidas de analytics/ SI se versionan: son la evidencia del estudio y
+# pesan poco. Si alguna crece demasiado, ignorela puntualmente aqui.

@@ -1,0 +1,7 @@
+dataset,status,downloaded_files,local_folder,csv_files,total_rows_csv,sample_file,sample_shape,note
+UR Fall Detection,PARTIAL/NO_CSV,0,d:\UniversidadEAN\ProyectoGrado\dataset_downloads\UR_Fall_Detection,0.0,,,N/D,Descargado subconjunto CSV (features + muestras).
+UniMiB SHAR,ERROR,0,d:\UniversidadEAN\ProyectoGrado\dataset_downloads\UniMiB_SHAR,,,,N/D,Fallo: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/jindongwang/transferlearning/master/code/deep/Mobile/UniMiB_SHAR/data/full_data.csv
+TST Fall detection (modificado),OK,1,d:\UniversidadEAN\ProyectoGrado\dataset_downloads\TST_Fall_Modified_Zenodo,0.0,,Fall-Detection-Dataset-Modification.rar,N/D,Descargado paquete .rar desde Zenodo; requiere extraccion para shapes internos.
+UMAFall,OK,4,d:\UniversidadEAN\ProyectoGrado\dataset_downloads\UMAFall_Figshare,0.0,,,N/D,Descarga por Figshare API; puede incluir zips/no-CSV.
+Graz (Mobile Phone Sensing Based Fall Detection),OK,1,d:\UniversidadEAN\ProyectoGrado\dataset_downloads\Graz_Figshare,0.0,,,N/D,Descarga por Figshare API; puede incluir zips/no-CSV.
+tFall,MANUAL_REQUIRED,1,d:\UniversidadEAN\ProyectoGrado\dataset_downloads\tFall_Ultralytics,0.0,,README_ACCESS.txt,N/D,Descarga automatica no disponible sin login/export manual.

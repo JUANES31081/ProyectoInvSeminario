@@ -1,0 +1,175 @@
+{
+  "kaggle_auth_detected": true,
+  "download_summary": [
+    {
+      "dataset": "SisFall (mirror Kaggle)",
+      "downloaded": true,
+      "slug_used": "thevman/sisfall-dataset",
+      "path": "C:\\khcache\\datasets\\thevman\\sisfall-dataset\\versions\\1",
+      "shape_summary": {
+        "csv_files": 4275,
+        "total_rows": 6907663,
+        "min_cols": 10,
+        "max_cols": 10,
+        "sample_file": "SisFall_Task specified/Test/SA01/D01_SA01_R01.csv",
+        "sample_shape": "(5401, 10)",
+        "errors": []
+      },
+      "errors": []
+    },
+    {
+      "dataset": "KFall (mirror Kaggle)",
+      "downloaded": true,
+      "slug_used": "usmanabbasi2002/kfall-dataset",
+      "path": "C:\\khcache\\datasets\\usmanabbasi2002\\kfall-dataset\\versions\\2",
+      "shape_summary": {
+        "csv_files": 5075,
+        "total_rows": 3995100,
+        "min_cols": 11,
+        "max_cols": 11,
+        "sample_file": "KFall Dataset/KFall Dataset/sensor_data/SA06/S06T01R01.csv",
+        "sample_shape": "(3072, 11)",
+        "errors": []
+      },
+      "errors": []
+    },
+    {
+      "dataset": "FallAllD (mirror Kaggle)",
+      "downloaded": true,
+      "slug_used": "shusrith/fallalld",
+      "path": "C:\\khcache\\datasets\\shusrith\\fallalld\\versions\\5",
+      "shape_summary": {
+        "csv_files": 5078,
+        "total_rows": 4101091,
+        "min_cols": 4,
+        "max_cols": 455,
+        "sample_file": "fallalld.csv",
+        "sample_shape": "(6605, 9)",
+        "errors": []
+      },
+      "errors": []
+    },
+    {
+      "dataset": "Real-Time Patient Fall",
+      "downloaded": true,
+      "slug_used": "zara2099/real-time-patient-fall-detection-data",
+      "path": "C:\\khcache\\datasets\\zara2099\\real-time-patient-fall-detection-data\\versions\\1",
+      "shape_summary": {
+        "csv_files": 1,
+        "total_rows": 1000,
+        "min_cols": 15,
+        "max_cols": 15,
+        "sample_file": "fall_detection_dataset.csv",
+        "sample_shape": "(1000, 15)",
+        "errors": []
+      },
+      "errors": []
+    },
+    {
+      "dataset": "Elderly Fall Detection IoT",
+      "downloaded": true,
+      "slug_used": "ziya07/elderly-fall-detection-iot-dataset",
+      "path": "C:\\khcache\\datasets\\ziya07\\elderly-fall-detection-iot-dataset\\versions\\2",
+      "shape_summary": {
+        "csv_files": 2,
+        "total_rows": 25552,
+        "min_cols": 5,
+        "max_cols": 15,
+        "sample_file": "archive (14)/data_tuple3.csv",
+        "sample_shape": "(552, 5)",
+        "errors": []
+      },
+      "errors": []
+    },
+    {
+      "dataset": "Smartphone Human Fall Dataset",
+      "downloaded": true,
+      "slug_used": "saadmansakib/smartphone-human-fall-dataset",
+      "path": "C:\\khcache\\datasets\\saadmansakib\\smartphone-human-fall-dataset\\versions\\1",
+      "shape_summary": {
+        "csv_files": 2,
+        "total_rows": 1784,
+        "min_cols": 12,
+        "max_cols": 12,
+        "sample_file": "Test.csv",
+        "sample_shape": "(356, 12)",
+        "errors": []
+      },
+      "errors": []
+    },
+    {
+      "dataset": "Falls vs Normal Activities",
+      "downloaded": true,
+      "slug_used": "enricogrimaldi/falls-vs-normal-activities",
+      "path": "C:\\khcache\\datasets\\enricogrimaldi\\falls-vs-normal-activities\\versions\\1",
+      "shape_summary": {
+        "csv_files": 1,
+        "total_rows": 96800,
+        "min_cols": 7,
+        "max_cols": 7,
+        "sample_file": "acc_gyr.csv",
+        "sample_shape": "(96800, 7)",
+        "errors": []
+      },
+      "errors": []
+    }
+  ],
+  "upfall_local_files": [
+    {
+      "dataset": "UP-Fall (local)",
+      "file": "CameraResizedOF.csv",
+      "rows": 17378,
+      "cols": 805,
+      "shape": "(17378, 805)"
+    },
+    {
+      "dataset": "UP-Fall (local)",
+      "file": "CompleteDataSet.csv",
+      "rows": 294679,
+      "cols": 47,
+      "shape": "(294679, 47)"
+    },
+    {
+      "dataset": "UP-Fall (local)",
+      "file": "CompleteDataSetFeatures1&0.5.csv",
+      "rows": 32295,
+      "cols": 761,
+      "shape": "(32295, 761)"
+    },
+    {
+      "dataset": "UP-Fall (local)",
+      "file": "CompleteDataSetFeatures2&1.csv",
+      "rows": 15593,
+      "cols": 761,
+      "shape": "(15593, 761)"
+    },
+    {
+      "dataset": "UP-Fall (local)",
+      "file": "CompleteDataSetFeatures3&1.5.csv",
+      "rows": 10125,
+      "cols": 761,
+      "shape": "(10125, 761)"
+    },
+    {
+      "dataset": "UP-Fall (local)",
+      "file": "Features_1&0.5_Vision.csv",
+      "rows": 32237,
+      "cols": 805,
+      "shape": "(32237, 805)"
+    },
+    {
+      "dataset": "UP-Fall (local)",
+      "file": "Features_2&1_Vision.csv",
+      "rows": 15565,
+      "cols": 805,
+      "shape": "(15565, 805)"
+    },
+    {
+      "dataset": "UP-Fall (local)",
+      "file": "Features_3&1.5_Vision.csv",
+      "rows": 10107,
+      "cols": 805,
+      "shape": "(10107, 805)"
+    }
+  ]
+}

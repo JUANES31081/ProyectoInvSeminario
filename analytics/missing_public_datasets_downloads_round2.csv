@@ -1,0 +1,5 @@
+dataset,status,downloaded_files,local_folder,csv_files,total_rows_csv,sample_file,sample_shape,note,min_cols,max_cols
+UR Fall Detection,ERROR,0,d:\UniversidadEAN\ProyectoGrado\dataset_downloads\UR_Fall_Detection,0,,,N/D,Descarga directa de CSV de features y secuencias (acc/data).,,
+UniMiB SHAR,OK,1,d:\UniversidadEAN\ProyectoGrado\dataset_downloads\UniMiB_SHAR,3,1777421.0,unimib_test.csv,"(177727, 7)",Mirror Kaggle usado: wangboluo/unimib-shar-dataset,7.0,7.0
+Graz (Mobile Phone Sensing Based Fall Detection),OK,1,d:\UniversidadEAN\ProyectoGrado\dataset_downloads\Graz_Figshare,0,637892.0,DEVICE_ALL_ACCELERATION,"(159300, 6)",Dataset en SQLite; total de filas sumando tablas.,,
+UMAFall,OK,4,d:\UniversidadEAN\ProyectoGrado\dataset_downloads\UMAFall_Figshare,0,,UMAFall_Dataset/,N/D,Paquetes ZIP descargados (4); entradas internas totales: 1504.,,

@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "Proyecto de Investigacion - Datasets de Deteccion de Caidas (Wearables y Multimodal)"
+message: "Si utiliza este trabajo como base, por favor citelo."
+type: software
+authors:
+  - family-names: "Esteban"
+    given-names: "Juan"
+    alias: "JUANES31081"
+    affiliation: "Universidad EAN"
+repository-code: "https://github.com/JUANES31081/ProyectoInvSeminario"
+abstract: >-
+  Inventario, validacion de disponibilidad y analitica reproducible de datasets
+  publicos para deteccion de caidas basados en sensores wearables y fuentes
+  multimodales. Incluye verificacion de fuentes, metricas de completitud y
+  reportes comparativos.
+keywords:
+  - fall detection
+  - wearables
+  - human activity recognition
+  - datasets
+  - reproducibility
+license: "CC-BY-NC-SA-4.0"
+version: "0.1.0"
+date-released: "2026-08-31"
